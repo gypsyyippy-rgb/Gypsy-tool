@@ -1,7 +1,6 @@
 {
-  "latest_version": "2.0",
-  "download_url": "http://sonicteam.dyndns.org:3001/godung",
-  "days_to_remember": 180,
+  "version": "8.4",
+  "download_url": "https://github.com/gypsyyippy-rgb/Gypsy-tool/releases/download/v8.4/SNTool.exe",
   "master_base": "Gypsy",
-  "master_secret": "SNTOOL@2025_UP"
+  "master_secret": "SNTOOL@2024"
 }
