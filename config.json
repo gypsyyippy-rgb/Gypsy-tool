@@ -1,6 +1,6 @@
 {
-  "version": "11.9",
-  "download_url": "https://github.com/gypsyyippy-rgb/Gypsy-tool/releases/download/v11.9/SNTool.exe",
+  "version": "11.9.1",
+  "download_url": "https://github.com/gypsyyippy-rgb/Gypsy-tool/releases/download/v11.9.1/SNTool.exe",
   "master_base": "Gypsy",
   "master_secret": "SNTOOL@2024"
 }
